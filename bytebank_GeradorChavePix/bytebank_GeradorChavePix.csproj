@@ -5,6 +5,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Gerador de Chave Pix</Title>
+    <Description>Esse Pacote é para geração de chave pix aleatoria</Description>
   </PropertyGroup>
 
 </Project>

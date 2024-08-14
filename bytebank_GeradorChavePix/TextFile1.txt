@@ -1,0 +1,1 @@
+﻿agora podemos subir esta aplicação para nuget, assim tendo como pacote para ser utilizado em outras aplicações
